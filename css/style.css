@@ -465,6 +465,10 @@ width: 100%;
 
 
 }
+#portfolio:hover{
+	background-color: #00FF00;
+	cursor: wait;
+}
 .p-box:hover .overlay-text{
 	display: flex;
 	
