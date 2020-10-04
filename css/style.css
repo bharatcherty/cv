@@ -29,7 +29,7 @@ a{
 }
 
 /* Bottom style hover effect */
-.cv {
+.hover-cv {
 	position: relative;
 	display: inline-block;
 	padding: 15px 30px;
@@ -654,6 +654,11 @@ width: 100%;
 		top: 50%;
 		transform: translate(-10%,-50%);
 	}
+	.hover{
+		left:10%;
+		top: 50%;
+	}
+		
 	.about-model img{
 		height:400px;
 	}
