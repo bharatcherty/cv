@@ -654,10 +654,7 @@ width: 100%;
 		top: 50%;
 		transform: translate(-10%,-50%);
 	}
-	.hover{
-		left:10%;
-		top: 50%;
-	}
+	
 		
 	.about-model img{
 		height:400px;
@@ -725,6 +722,10 @@ width: 100%;
 		}
 	nav{
 		padding:10px 30px;
+	}
+	.hover{
+		left:10%;
+		top: 50%;
 	}
 	
 	nav ul{
