@@ -12,7 +12,7 @@ body{
 ul{
 	list-style:none;
 }
-.con-me a{
+#con-me a{
 	box-sizing: border-box;
 	font-family: consolas;
 	display:flex;
@@ -28,7 +28,7 @@ ul{
 	transition: 0.5s;
 	letter-spacing: 4px;
 }
-.con-me a:hover{
+#con-me a:hover{
 	background: #03e9f4;
 	color: #050801;
 	box-shadow: 0 05px #03e9f4,
@@ -491,9 +491,7 @@ width: 100%;
 
 
 }
-#portfolio:hover{
-	background-color: #00FF00;
-	cursor: wait;
+
 }
 .p-box:hover .overlay-text{
 	display: flex;
