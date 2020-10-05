@@ -12,32 +12,6 @@ body{
 ul{
 	list-style:none;
 }
-#con-me a{
-	box-sizing: border-box;
-	font-family: consolas;
-	display:flex;
-	min-height: 100vh;
-	flex-direction:column;
-	position: relative;
-	background: #050801;
-	font-size: 24px;
-	color: #03e9f4;
-	text-decoration: none;
-	text-transform: uppercase;
-	overflow: hidden;
-	transition: 0.5s;
-	letter-spacing: 4px;
-}
-#con-me a:hover{
-	background: #03e9f4;
-	color: #050801;
-	box-shadow: 0 05px #03e9f4,
-		    0 0 25px #03e9f4,
-		    0 0 75px #03e9f4,
-		    0 0 100px #03e9f4,
-		
-}
-	
 a{
 	text-decoration:none;
 }
@@ -448,9 +422,7 @@ width: 100%;
 	height: 100%;
 	object-fit: cover;
 }
-.p-headind:hover{
-	background-color: #1670bb;
-	border-size: 1px;
+
 }
 .p-container{
 	width: 90%;
@@ -489,8 +461,6 @@ width: 100%;
 	font-size: 1.2rem;
 	margin: 0px;
 
-
-}
 
 }
 .p-box:hover .overlay-text{
